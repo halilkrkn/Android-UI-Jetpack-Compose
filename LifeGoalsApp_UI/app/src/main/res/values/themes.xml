@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LifeGoalsApp_UI" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:navigationBarColor">
+<!--            @android:color/transparent-->
+            ?android:attr/colorPressedHighlight
+        </item>
+        <item name="android:statusBarColor">?android:attr/colorPressedHighlight</item>
+
+    </style>
+
+</resources>
